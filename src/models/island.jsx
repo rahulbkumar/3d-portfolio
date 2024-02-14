@@ -34,8 +34,7 @@ const Island = (props) => {
         material={materials.PaletteMaterial001}
       />
       <mesh
-        geometry={nodes.pCube11_rocks1_0.geometry}
-        material={materials.PaletteMaterial001}
+      
       />
     </a.group>
   );
